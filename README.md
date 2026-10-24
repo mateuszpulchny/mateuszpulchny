@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Mateusz Pulchny
 
-<!--
-**mateuszpulchny/mateuszpulchny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- TODO: replace the placeholders below with your own details -->
 
-Here are some ideas to get you started:
+### 🙋 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I work as **[your role / profession]**
+- 🔭 I'm currently working on **[project or area]**
+- 🌱 I'm currently learning **[skill / technology]**
+- 🎯 Interests: **[interest 1]**, **[interest 2]**, **[interest 3]**
+- ⚡ Fun fact: **[something about you]**
+
+### 📫 Contact
+
+- ✉️ Email: [mateusz.pulchny@gmail.com](mailto:mateusz.pulchny@gmail.com)
+- 🐙 GitHub: [@mateuszpulchny](https://github.com/mateuszpulchny)
